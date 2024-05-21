@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: aqua;
+    /* margin: 15px auto; */
+}
+
+.alert {
+    padding: 6px 16px;
+    margin: 0;
+}
+
+#my-layout-section {
+    margin: 1px 0px 1px 0px;
+    min-height: calc(100vh - 58px);
+    background-color: rgb(84, 83, 112);
+    color: aqua;
+}
+
+
+.admin-aside-item > a {
+    color: aquamarine;
+}
+
